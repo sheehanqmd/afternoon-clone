@@ -1,0 +1,75 @@
+body {
+    background-color: rgb(36, 36, 175);
+    color: white;
+    display: center;
+    font-size:10px; 
+    text-align: center
+    
+
+}
+#DLE {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 40px;
+}
+
+#explore {
+    border-radius: 20%;
+
+}
+
+
+.container { 
+    display: flex;
+    justify-content: center;
+    color: white;
+    align-items: center;
+    background-color:rgb(36, 36, 175);
+}
+
+
+#container {
+    justify-content: space-around;
+    text-align: center;
+    display: flex;
+
+}
+
+#sub {
+    color: rgb(36, 36, 175);
+    border: solid white;
+    justify-content: flex-end;
+    text-color: white;
+    border-radius: 30%;
+    align-items: flex-end;
+}  
+
+h1 {
+    background-color: rgb(36, 36, 175);
+}
+
+
+#design {
+    display: 
+    border: solid orange;
+    flex-direction: wrap;
+    text-align: justify;
+    text-justify: inter-word;
+    color: white;
+    width: 200px;
+    height: 7vh;   
+}
+
+#feed {
+    display: flex
+    justify-content: column;
+    border: solid black;
+    display: flex; 
+}
+text {
+    border
+    color: white
+    display: flex;
+    justify-content: center;
+}
